@@ -50,9 +50,9 @@ section{
 
 .icon-bars{
   font-size: 25px;
-border: 1px solid gray;
-padding: 5px 10px;
-color: gray;
+  border: 1px solid gray;
+  padding: 5px 10px;
+  color: gray;
 }
 
 section img{
@@ -63,5 +63,21 @@ footer{
   height: 30%;
   font-size: 1em;
   text-align: center;
+
+}
+
+
+@media (min-width: 700px){
+
+  .icon-bars{
+    display:none;
+  }
+}
+
+
+@media (max-width: 700px ){
+  .menues{
+    display: none;
+  }
 
 }
