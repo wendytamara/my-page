@@ -33,7 +33,7 @@ main img{
 
 section{
   box-sizing: border-box;
-  padding: 50px;
+  padding: 15px;
   width: 100%;
 }
 
@@ -47,8 +47,12 @@ section{
   outline: 1px solid black;
 
 }
-section article{
-height: 185px;
+
+.icon-bars{
+  font-size: 25px;
+border: 1px solid gray;
+padding: 5px 10px;
+color: gray;
 }
 
 section img{
