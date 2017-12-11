@@ -21,6 +21,6 @@
 
 ## *Proyecto desplegado en:*
 
-* [github](https://github.com/wendytamara/kitten "Título del enlace")
+* [github](https://github.com/wendytamara/my-page "Título del enlace")
 
-* [gh-pages](https://wendytamara.github.io/kitten/ "Título del enlace")
+* [gh-pages](https://wendytamara.github.io/my-page/ "Título del enlace")
